@@ -226,10 +226,7 @@ Script.HidingPlaceName = {
     ["Mines"] = "Locker"
 }
 
-Script.CutsceneExclude = {
-    "FigureHotelChase",
-    "Elevator1",
-    "MinesFinale"
+
 }
 
 Script.SlotsName = {
